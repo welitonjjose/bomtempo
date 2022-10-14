@@ -10,11 +10,11 @@ Gem::Specification.new do |spec|
 
   spec.summary = "weather forecast."
   spec.description = "Bom Tempo, get a weather forecast for the next few days"
-  spec.homepage = "https://stowe.com.br"
+  spec.homepage = "https://github.com/welitonjjose/bomtempo"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["allowed_push_host"] = spec.homepage
+  # spec.metadata["allowed_push_host"] = spec.homepage
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = spec.homepage
